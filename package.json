@@ -1,0 +1,24 @@
+{
+  "name": "electronbase",
+  "version": "1.0.0",
+  "description": "",
+  
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangozmorgan/electronBase.git"
+  },
+  "author": "morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangozmorgan/electronBase/issues"
+  },
+  "homepage": "https://github.com/mangozmorgan/electronBase#readme",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  }
+}
